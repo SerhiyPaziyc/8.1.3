@@ -1,0 +1,15 @@
+﻿'8.1,3.exe' (Win32): Loaded 'C:\Users\LENOVO\source\repos\8.1,3\x64\Debug\8.1,3.exe'. Symbols loaded.
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0xf88 has exited with code 0 (0x0).
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'8.1,3.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x61a0 has exited with code 0 (0x0).
+The thread 0x59ac has exited with code 0 (0x0).
+The program '[23752] 8.1,3.exe' has exited with code 0 (0x0).
